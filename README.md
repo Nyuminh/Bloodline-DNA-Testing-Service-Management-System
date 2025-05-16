@@ -1,4 +1,4 @@
-# Bloodline-DNA-Testing-Service-Management-System
+# Bloodline DNA Testing Service Management System
 
 A comprehensive web-based management system for a DNA testing service company, providing functionality for customers, lab staff, and administrators.
 
