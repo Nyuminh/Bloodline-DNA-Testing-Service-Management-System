@@ -1,6 +1,40 @@
 # Bloodline DNA Testing Service Management System
 
 A comprehensive web-based management system for a DNA testing service company, providing functionality for customers, lab staff, and administrators.
+
+## Features
+
+### Customer Portal
+- User registration and authentication
+- Order DNA testing kits 
+- Track sample status
+- View and download test results
+- Ancestry breakdown visualization
+- Health insights reporting
+- DNA relative matching
+- Family tree building
+
+### Administrator Dashboard
+- Comprehensive reporting and analytics
+- User management
+- Test management
+- Sample tracking
+- Lab equipment and capacity monitoring
+- Revenue tracking and financial reporting
+- System notification management
+
+### Lab Staff Portal
+- Sample processing workflow
+- Test result management
+- Quality control tracking
+- Equipment monitoring
+
+## Technology Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **UI Framework:** Custom CSS with responsive design
+- **Charts and Visualizations:** Chart.js
+- **Icons:** Font Awesome
 # User Requirements for ADN Testing Service Management Software
 
 ## 1. Overview  
@@ -113,40 +147,6 @@ The software is for managing DNA (ADN) relationship testing services at a medica
 ---
 
 **End of User Requirements Document**
-
-## Features
-
-### Customer Portal
-- User registration and authentication
-- Order DNA testing kits 
-- Track sample status
-- View and download test results
-- Ancestry breakdown visualization
-- Health insights reporting
-- DNA relative matching
-- Family tree building
-
-### Administrator Dashboard
-- Comprehensive reporting and analytics
-- User management
-- Test management
-- Sample tracking
-- Lab equipment and capacity monitoring
-- Revenue tracking and financial reporting
-- System notification management
-
-### Lab Staff Portal
-- Sample processing workflow
-- Test result management
-- Quality control tracking
-- Equipment monitoring
-
-## Technology Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **UI Framework:** Custom CSS with responsive design
-- **Charts and Visualizations:** Chart.js
-- **Icons:** Font Awesome
 
 ## Project Structure
 
