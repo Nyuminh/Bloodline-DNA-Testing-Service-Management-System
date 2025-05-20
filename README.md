@@ -203,3 +203,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Font Awesome for the icons
 - Chart.js for data visualization
 - All contributors to the project 
+![alt text](image.png)
